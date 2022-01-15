@@ -14,9 +14,9 @@ A cardiologist measures vitals & hands you this data to perform Data Analysis an
 We have a data which classified if patients have heart disease or not according to features in it.
 We will try to use this data to create a model which tries predictif a patient has this disease or not.
 
-1.Positive (+) = 1, patient diagnosed with Heart Disease
+1. Positive (+) = 1, patient diagnosed with Heart Disease
 
-2.Negative (-) = 0, patient not diagnosed with Heart Disease
+2. Negative (-) = 0, patient not diagnosed with Heart Disease
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Objective
 
