@@ -6,7 +6,7 @@ Heart disease detection using ML classifier KNN Algorithm
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 # INTRODUCTION
 
-Hospital with an alarming number of patients coming in reporting various cardiac symptoms.
+Hospital with an  number of patients coming in reporting various cardiac symptoms.
 A cardiologist measures vitals & hands you this data to perform Data Analysis and predict whether certain patients have Heart Disease. We would like to make a Machine Learning algorithm where we can train our AI to learn & improve from experience. Thus, we would want to classify patients as either positive or negative for Heart Disease.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 # Goal
